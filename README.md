@@ -1,1 +1,3 @@
-Read ME
+# maven-project
+
+Simple Maven Project
